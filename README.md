@@ -20,8 +20,8 @@ Understand what classification is and learn how to implement k-Nearest Neighbors
 
 | Topic | Skills |
 | ------ | ------ |
-| [Slides](./01-slides/) | - Understand the intuition behind the k-NN algorithm |
-| [K-Nearest Neighbors](./02-knn/) | - Prepare data for k-NN algorithm using standardization techniques<br/>- Implement KNN with `scikit-learn` |
+| [Slides](https://github.com/ga-curriculum/ml-knn/blob/main/01-slides/ML-k-Nearest-Neighbors.pdf){:target="_blank"} | - Understand the intuition behind the k-NN algorithm |
+| [K-Nearest Neighbors](https://github.com/ga-curriculum/ml-knn/tree/main/02-knn){:target="_blank"} | - Prepare data for k-NN algorithm using standardization techniques<br/>- Implement KNN with `scikit-learn` |
 
 
 ## Prerequisites
